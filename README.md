@@ -22,7 +22,7 @@
 
 ```
 index.html          滚动剧本播放器（单文件，无依赖）
-media/full.mp3      音轨（192k，已裁掉 15:54 之后的广告）
+media/full.mp3      音轨（128k，已裁掉 15:54 之后的广告）
 script/*.docx       剧本 Word：封面 + 出场人物 + 按角色分段 + 时间码
 script/*.srt        字幕
 script/*.txt        纯文本
